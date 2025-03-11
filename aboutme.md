@@ -1,16 +1,18 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: post
+hidedate: true
+use-site-title: false
 ---
+<h1 style="padding-top: 25px;">Hi! I'm Yvonne</h1>
 
-My name is Inigo Montoya. I have the following qualities:
+I am a design leader with 17+ years of experience, specialized in the worlds of UX, digital platforms, product design, and service design. I enjoy solving meaty problems, being deeply rooted in customer empathy, and elevating individuals, teams, and design craft to help drive user desire and business outcomes.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In my free time, I enjoy any kind of family activity, especially through the lens of my 2 small kids. I also enjoy cooking, writing, photography, and hand lettering.
 
-What else do you need?
+You can also follow me on:  
+[Medium](https://medium.com/@yvonniks)  
+[Tumblr](http://yvonniks.tumblr.com/)  
+[Instagram](http://instagram.com/yveezydoodles/)  
+[X](https://x.com/yvonniks)  
+[Vsco](http://vsco.co/yveezysf)
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
